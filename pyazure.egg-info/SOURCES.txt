@@ -1,0 +1,7 @@
+setup.py
+pyazure/__init__.py
+pyazure/views.py
+pyazure.egg-info/PKG-INFO
+pyazure.egg-info/SOURCES.txt
+pyazure.egg-info/dependency_links.txt
+pyazure.egg-info/top_level.txt
