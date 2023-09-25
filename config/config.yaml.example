@@ -1,0 +1,6 @@
+xyz_data_server: 'xyz-data.database.windows.net'
+transaction_database: 'XYZ_Transaction'
+staging_database: 'XYZ_Staging'
+azure_xyz_username: 'XYZ_Web'
+azure_xyz_password: '***'
+production_database: 'XYZ_Prod'
