@@ -65,4 +65,4 @@ env_nowcfo/
 *.env
 
 *.xlsx
-*.yml
+*.yaml
